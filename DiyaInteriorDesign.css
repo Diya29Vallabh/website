@@ -1,0 +1,55 @@
+.jumbotron{
+  min-height: 600px;
+  background-image: url('marblewallpaper.jpg');
+  background-size: cover;
+  background attachment: fixed;
+}
+
+
+#social-buttons button {
+  color: white;
+
+}
+
+.btn-twitter{
+  background-color: #00acee; /* OPTIMIZE: */
+  border-color: #009ad5
+
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776
+
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+h1 {
+  font-style: italic;
+  font-size: 70px;
+  text-align: center;
+  color: blue;
+}
+
+.list1 li {
+  text-align: :center;
+  display: inline-block !important;
+}
+
+body {
+  padding-top: 60px;
+}
+p {
+color: grey;
+}
+
+h2 {
+  color: grey;
+}
+
+P {
+  color: grey:
+}

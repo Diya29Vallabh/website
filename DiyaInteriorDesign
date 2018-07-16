@@ -1,0 +1,6 @@
+.jumbotron {
+  min-height: 600px;
+  background-image: url('marble-desktop-wallpaper-hd-desk-ideas.jpg');
+  background-size: cover;
+  background attachment: fixed;
+}
